@@ -1,0 +1,16 @@
+AWS AMAZON
+
+Name: Sai K Amsanpally
+
+AWS AMAZON
+
+Instance Information
+
+Hostname : ec2-3-86-202-190.compute-1.amazonaws.com
+
+Instance ID : i-069035c44002fe0f4
+
+Zone : us-east-1d
+
+Security Group : WebServer_lcmhng_Sec_group
+

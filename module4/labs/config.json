@@ -1,0 +1,6 @@
+{
+    "bucket": "firstpipeline",
+    "prefix": "EventSource1/",
+    "firehose": "a-great-firehose",
+    "stream": "a-great-stream"
+}

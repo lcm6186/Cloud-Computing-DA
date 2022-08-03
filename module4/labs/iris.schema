@@ -1,0 +1,30 @@
+{
+  "excludedAttributeNames": [], 
+  "version": "1.0", 
+  "dataFormat": "CSV", 
+  "rowId": null, 
+  "dataFileContainsHeader": true, 
+  "attributes": [
+    {
+      "attributeName": "sepal_length", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "sepal_width", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "petal_length", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "petal_width", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "y", 
+      "attributeType": "CATEGORICAL"
+    }
+  ], 
+  "targetAttributeName": "y"
+}
